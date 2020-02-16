@@ -13,6 +13,6 @@ We were supposed to:
 5. Show some of the graphs online using plotly and GCP
 (as It's a web app with .py python extention provided as another project in plotly-dash folder)
 
-This further update would be provided soon. 
+More updates like this and further improvements would be provided soon. 
 
-6. Use Machine Learning tools to make models
+Use Machine Learning tools to make models
