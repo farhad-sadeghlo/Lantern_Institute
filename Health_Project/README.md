@@ -10,6 +10,9 @@ We were supposed to:
 2. Adjusting the offset UTC time, if it's applicable
 3. Provide separate analysis of each dataset
 4. Do further analysis, provide meaningful relations and make a model
-5. Use Machine Learning tools to make models
-6. Show some of the graphs online using plotly and GCP
+5. Show some of the graphs online using plotly and GCP
 (as It's a web app with .py python extention provided as another project in plotly-dash folder)
+
+This further update would be provided soon. 
+
+6. Use Machine Learning tools to make models
