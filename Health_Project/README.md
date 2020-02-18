@@ -16,3 +16,5 @@ We were supposed to:
 More updates like this and further improvements would be provided soon. 
 
 Use Machine Learning tools to make models
+
+:copyright: All rights are reserved.
